@@ -1,4 +1,4 @@
-div,.box { border-radius: 0 !important; }
-img.avatar { border-radius: 50%; }
-#Top, #Wrapper { background: #f0f0f0; }
-#Top { border: 0; box-sizing: 0; padding-top: 12px;}
+div,.box { border-radius: 0 !important; transition: all 0.3s ease; }
+img.avatar { border-radius: 50%; transition: all 0.3s ease; }
+#Top, #Wrapper { background: #f0f0f0; transition: all 0.3s ease; }
+#Top { border: 0; box-sizing: 0; padding-top: 12px; transition: all 0.3s ease; }
