@@ -1,2 +1,3 @@
-div,.box { border-radius: 0 !important;}
-img.avatar { max-width: 64px; max-height: 64px; width: 64px; height: 64px; border-radius: 50%; }
+div,.box { border-radius: 0 !important; }
+img.avatar { border-radius: 50%; }
+#Top, #Wrapper {background: #f0f0f0; }
